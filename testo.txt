@@ -1,3 +1,5 @@
 tante cose
 
-modifica blabla
+blabla
+
+changes from newBranch
